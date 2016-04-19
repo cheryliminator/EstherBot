@@ -1,7 +1,10 @@
 {
-    "HELLO": "Hey, I'm so glad you set EstherBot up!",
-    "TWITTER": "Let's tweet @ Esther so she knows you're setting a bot up. Here's a tweet that's ready to go: http://bit.ly/estherbot-tweet",
-    "I LOVE YOU": "Awh, shucks! I love you too!",
+    "HELLO": "You are conversing with Cherylbot",
+    "RASH": "Herpes. You have herpes."
+    "WHAT DO YOU DO?": "I wield a stethoscope and dole out drugs for a living. Best job in the world.",
+    "TELL ME A JOKE": "Why did the banana go to the doctor? It wasn't peeling well! *badumtsssss*",
+    "FIGS": "You have figs?! Marry me please",
+    "I LOVE YOU": "If you like it then you should put a ring on it (oh oh oh oh oh oh oh oh oh oh oh oh)",
     "CONNECT ME": "",
-    "DISCONNECT": "Roger that, EstherBot is back."
+    "DISCONNECT": "Ready to roll",
 }
